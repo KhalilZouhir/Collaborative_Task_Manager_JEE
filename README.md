@@ -2,7 +2,7 @@
 
 This is a simple collaborative task management application built using Java Enterprise Edition (JEE). The application allows users to manage their own tasks while viewing the progress of their team members' tasks without making any modifications to them.
 
-                                         ![image](https://github.com/user-attachments/assets/69a8985d-f6f9-4071-b6b5-9358f2cb7f56)
+![image](https://github.com/user-attachments/assets/69a8985d-f6f9-4071-b6b5-9358f2cb7f56)
 
 ## Features 
 
