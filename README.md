@@ -26,7 +26,7 @@ This is a simple collaborative task management application built using Java Ente
 
 The database schema follows the Merise model (MCD and MLD). You can find the schema image in the repository. To set up the database:
 
-* Import the provided SQL file into phpMyAdmin using XAMPP.
+* Import the provided SQL file into phpMyAdmin using XAMPP.(todolistemgproject .sql)
 * Ensure the MySQL server is running.
 
 ## Tools and Technologies Used
@@ -43,7 +43,13 @@ The database schema follows the Merise model (MCD and MLD). You can find the sch
 * Import the database schema into phpMyAdmin.
 * Clone the project and open it in PyCharm Ultimate Edition.
 * Add mysql-connector.jar to the project's libraries.
+  
+* ![image](https://github.com/user-attachments/assets/991a2158-0ec5-4aea-8a24-1344362ed4bd)
+  
 * Deploy the application on Tomcat 10.1.10.
+
+* ![image](https://github.com/user-attachments/assets/cf667f7c-dd8d-4fd0-856a-4d9592e11e29)
+  
 * Start the Tomcat server and access the app via the browser.
 
 
