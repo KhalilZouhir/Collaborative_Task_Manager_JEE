@@ -50,7 +50,7 @@ To set up the database:
 * Set up XAMPP and run Apache and MySQL.
 * Import the database schema into phpMyAdmin.
 * Clone the project and open it in PyCharm Ultimate Edition.
-* Add mysql-connector.jar to the project's libraries.
+* Add mysql-connector.jar to the project's libraries (you can find it in the mysql connector folder).
   
    ![image](https://github.com/user-attachments/assets/991a2158-0ec5-4aea-8a24-1344362ed4bd)
   
