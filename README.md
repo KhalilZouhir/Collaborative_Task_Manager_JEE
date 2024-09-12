@@ -60,7 +60,8 @@ To set up the database:
   
 * Start the Tomcat server and access the app via the browser.
 
-
+## Contact
+* Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/khalil-zouhir-92382b236
 
 
 
