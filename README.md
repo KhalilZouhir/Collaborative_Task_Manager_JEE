@@ -2,21 +2,22 @@
 
 This is a simple collaborative task management application built using Java Enterprise Edition (JEE). The application allows users to manage their own tasks while viewing the progress of their team members' tasks without making any modifications to them.
 
-![image](https://github.com/user-attachments/assets/69a8985d-f6f9-4071-b6b5-9358f2cb7f56)
+![image](https://github.com/user-attachments/assets/026ff01a-7d77-43ac-a19e-3f6978951cb4)
+
 
 ## Features 
 
 * Login: Authenticate users with their credentials.
-  ![image](https://github.com/user-attachments/assets/68f1a186-e721-496b-beec-b7b463d4e9f6)
+* ![image](https://github.com/user-attachments/assets/68f1a186-e721-496b-beec-b7b463d4e9f6)
 
 * Task Management :
   * View finished and unfinished tasks of team members
   * Add, update (Mark your tasks as finished or unfinished), and delete your own tasks.
-    ![image](https://github.com/user-attachments/assets/8d9af4c4-b10d-4cf9-a8b5-3545b030c724)
+  * ![image](https://github.com/user-attachments/assets/8d9af4c4-b10d-4cf9-a8b5-3545b030c724)
 * View Team Members: See the list of your team members and their respective tasks.
-![image](https://github.com/user-attachments/assets/b5cebf94-0771-4146-b615-1c68bdf82a3c)
+* ![image](https://github.com/user-attachments/assets/b5cebf94-0771-4146-b615-1c68bdf82a3c)
 
-![image](https://github.com/user-attachments/assets/30bda038-a384-4618-95d1-fb4ea7c00217)
+* ![image](https://github.com/user-attachments/assets/30bda038-a384-4618-95d1-fb4ea7c00217)
 
 
 * Logout: Safely disconnect from the session.
