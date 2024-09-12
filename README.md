@@ -5,11 +5,8 @@ This is a simple collaborative task management application built using Java Ente
 ## Features 
 
 * Login: Authenticate users with their credentials.
-* Task Management:
-** View finished and unfinished tasks of team members:
-Add, update (Mark your tasks as finished or unfinished), and delete your own tasks.
-
-** Logout: Safely disconnect from the session.
+* Task Management:View finished and unfinished tasks of team members and Add, update (Mark your tasks as finished or unfinished), and delete your own tasks.
+* Logout: Safely disconnect from the session.
 
 ## Database Setup
 
